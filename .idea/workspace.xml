@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day3/file1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/file2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/file3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/file4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro4_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,11 @@
     "アプリケーション.pro1_3.executor": "Run",
     "アプリケーション.pro1_4.executor": "Run",
     "アプリケーション.pro2_1.executor": "Run",
-    "アプリケーション.pro2_2.executor": "Run"
+    "アプリケーション.pro2_2.executor": "Run",
+    "アプリケーション.pro3_1.executor": "Run",
+    "アプリケーション.pro3_2.executor": "Run",
+    "アプリケーション.pro3_3.executor": "Run",
+    "アプリケーション.pro4_4.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
