@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day2/pro2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/pro2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/file1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/file2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/file3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/file4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2uWYZJZ1c5nyH4oTwfT7ox8gq8U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +43,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "アプリケーション.day2.file1.executor": "Run",
+    "アプリケーション.day3.file1.executor": "Run",
     "アプリケーション.file1.executor": "Run",
     "アプリケーション.file2.executor": "Run",
     "アプリケーション.file3.executor": "Run",
