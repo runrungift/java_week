@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day1/pro1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/file1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/file2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/file3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/file4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +42,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "アプリケーション.day2.file1.executor": "Run",
     "アプリケーション.file1.executor": "Run",
     "アプリケーション.file2.executor": "Run",
+    "アプリケーション.file3.executor": "Run",
+    "アプリケーション.file4.executor": "Run",
     "アプリケーション.pro1_1.executor": "Run",
     "アプリケーション.pro1_2.executor": "Run",
-    "アプリケーション.pro1_3.executor": "Run"
+    "アプリケーション.pro1_3.executor": "Run",
+    "アプリケーション.pro1_4.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
