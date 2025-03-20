@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day3/pro3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/pro3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/pro3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/pro4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/pro3_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_week/day3/pro4_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/pro4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/pro3_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +50,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "アプリケーション.day2.file1.executor": "Run",
@@ -57,8 +68,21 @@
     "アプリケーション.pro2_1.executor": "Run",
     "アプリケーション.pro2_2.executor": "Run",
     "アプリケーション.pro3_1.executor": "Run",
+    "アプリケーション.pro3_10.executor": "Run",
+    "アプリケーション.pro3_11.executor": "Run",
+    "アプリケーション.pro3_12.executor": "Run",
+    "アプリケーション.pro3_13.executor": "Run",
+    "アプリケーション.pro3_14.executor": "Run",
+    "アプリケーション.pro3_15.executor": "Run",
+    "アプリケーション.pro3_16.executor": "Run",
+    "アプリケーション.pro3_17.executor": "Run",
     "アプリケーション.pro3_2.executor": "Run",
     "アプリケーション.pro3_3.executor": "Run",
+    "アプリケーション.pro3_5.executor": "Run",
+    "アプリケーション.pro3_6.executor": "Run",
+    "アプリケーション.pro3_7.executor": "Run",
+    "アプリケーション.pro3_8.executor": "Run",
+    "アプリケーション.pro3_9.executor": "Run",
     "アプリケーション.pro4_4.executor": "Run"
   }
 }]]></component>

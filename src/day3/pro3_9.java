@@ -1,11 +1,13 @@
 package day3;
 
-public class pro4_4 {
+public class pro3_9 {
     public static void main(String[] args) {
         int num = (int) (Math.random() * 100) + 1;
         System.out.println(num);
-        if(num <= 10 || num >= 90){
-            System.out.println("10以下か90以上の値です");
+        if(num < 50){
+            System.out.println("50未満です");
+        }else {
+            System.out.println("50以上です");
         }
     }
 }
