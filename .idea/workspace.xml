@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day4/file1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/file2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/file3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/file4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/file5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/file6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4/pro4_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/pro4_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day4/pro4_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +80,8 @@
     "アプリケーション.pro4_13.executor": "Run",
     "アプリケーション.pro4_14.executor": "Run",
     "アプリケーション.pro4_15.executor": "Run",
+    "アプリケーション.pro4_16.executor": "Run",
+    "アプリケーション.pro4_17.executor": "Run",
     "アプリケーション.pro4_2.executor": "Run",
     "アプリケーション.pro4_3.executor": "Run",
     "アプリケーション.pro4_4.executor": "Run",
