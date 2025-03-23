@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day5/pro5_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/pro5_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/pro5_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/pro5_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5/pro5_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/file1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/fileclass1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,7 @@
     "アプリケーション.day3.file1.executor": "Run",
     "アプリケーション.day4.file1.executor": "Run",
     "アプリケーション.day5.file1.executor": "Run",
+    "アプリケーション.day6.file1.executor": "Run",
     "アプリケーション.file1.executor": "Run",
     "アプリケーション.file2.executor": "Run",
     "アプリケーション.file3.executor": "Run",
