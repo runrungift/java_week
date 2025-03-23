@@ -2,7 +2,7 @@ package day6;
 
 public class file1 {
     public static void main(String[] args) {
-        fileclass1 s = new fileclass1();
+        classfile1 s = new classfile1();
         s.n = 100;
         s.s = "Hello";
         int ans = s.add(1,2);

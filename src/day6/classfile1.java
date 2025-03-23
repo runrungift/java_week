@@ -1,6 +1,6 @@
 package day6;
 
-public class fileclass1 {
+public class classfile1 {
     int n = 10;
     String s = "field";
 

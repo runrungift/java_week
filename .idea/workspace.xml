@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day6/file1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6/fileclass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/classpro6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/classpro6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/classpro6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/file2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/pro6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/pro6_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6/pro6_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_week/day6/file1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_week/day6/file1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_week/day6/fileclass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day6/file1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/file1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day6/fileclass1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6/classfile1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +114,10 @@
     "アプリケーション.pro5_5.executor": "Run",
     "アプリケーション.pro5_6.executor": "Run",
     "アプリケーション.pro5_7.executor": "Run",
-    "アプリケーション.pro5_8.executor": "Run"
+    "アプリケーション.pro5_8.executor": "Run",
+    "アプリケーション.pro6_1.executor": "Run",
+    "アプリケーション.pro6_2.executor": "Run",
+    "アプリケーション.pro6_3.executor": "Run"
   }
 }]]></component>
   <component name="RunManager">
