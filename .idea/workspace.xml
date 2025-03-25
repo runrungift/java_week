@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="" />
+    <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day7/classpro7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/classpro7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/classpro7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/pro7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/pro7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7/pro7_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +44,9 @@
     "Application.day7.file1.executor": "Run",
     "Application.file2.executor": "Run",
     "Application.pro5_9.executor": "Run",
+    "Application.pro7_1.executor": "Run",
+    "Application.pro7_2.executor": "Run",
+    "Application.pro7_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
