@@ -1,20 +1,17 @@
 package pro8;
 
-public class pro8_6 {
+public class pro8_7 {
     public static void main(String[] args) {
 //        n[0] , n[2] = 分子 , n[1] , n[3] = 分母
         int[] n = new int[4];
 //        ans[0] = 分子 , ans[1] = 分母 , ans[2] = 整数部
         int[] ans = new int[3];
         for (int i = 0;i < n.length;i++){
-            if(i % 2 == 0){
-                n[i] = (int) (Math.random() * 10)  + 1;
-            }else{
-                n[i] = (int) (Math.random() * 9) + 2;
-            }
+            n[i] = (int) (Math.random() * 10)  + 1;
         }
         add(n,ans);
         show(ans);
+        System.out.printf("\n");
     }
 
 //    最大公約数を求める
@@ -69,7 +66,7 @@ public class pro8_6 {
 
 //    分数の足し算
     private static void add(int[] a,int[] b){
-        System.out.printf("%d / %d + %d / %d = ",a[0],a[1],a[2],a[3]);
+        showPlus(a);
 //        分母が同じでないなら通分する
         if(a[1] != a[3]){
             intoDiv(a);
@@ -77,14 +74,20 @@ public class pro8_6 {
         b[0] = a[0] + a[2];
         b[1] = a[1];
         b[2] = 0;
-//        約分する
-        sim(b);
-        if (b[0] >= b[1]){
-            mix(b);
+
+        simP(b);
+    }
+
+//    約分・帯分数化
+    private static void simP(int[] a){
+        sim(a);
+        if (a[0] >= a[1]){
+            mix(a);
         }
     }
 
 //    分数を表示する
+//    a[0] = 分子 , a[1] = 分母 , a[2] = 整数部
     private static void show(int[] a){
         if(a[0] == 0){
             System.out.printf("%d",a[2]);
@@ -93,6 +96,22 @@ public class pro8_6 {
         }else {
             System.out.printf("%d . %d / %d",a[2],a[0],a[1]);
         }
-        System.out.printf("\n");
+    }
+
+//    値を変えないで帯分数表示または整数表示または約分済み表示する
+    private static void showPlus(int[] a){
+        int[] b = new int[3];
+        b[0] = a[0];
+        b[1] = a[1];
+        b[2] = 0;
+        simP(b);
+        show(b);
+        System.out.printf(" + ");
+        b[0] = a[2];
+        b[1] = a[3];
+        b[2] = 0;
+        simP(b);
+        show(b);
+        System.out.printf(" = ");
     }
 }

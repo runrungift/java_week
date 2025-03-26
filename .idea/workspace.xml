@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b390daba-dc0a-4e6e-8bfb-362ff8a9775f" name="変更" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_13_Chat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro8/pro8_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_week/pro8/pro8_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_week/pro8/pro8_6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pro8/pro8_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pro8/pro8_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +63,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "アプリケーション.day2.file1.executor": "Run",
     "アプリケーション.day3.file1.executor": "Run",
     "アプリケーション.day4.file1.executor": "Run",
@@ -124,7 +130,17 @@
     "アプリケーション.pro5_8.executor": "Run",
     "アプリケーション.pro6_1.executor": "Run",
     "アプリケーション.pro6_2.executor": "Run",
-    "アプリケーション.pro6_3.executor": "Run"
+    "アプリケーション.pro6_3.executor": "Run",
+    "アプリケーション.pro8_10.executor": "Run",
+    "アプリケーション.pro8_11.executor": "Run",
+    "アプリケーション.pro8_12.executor": "Run",
+    "アプリケーション.pro8_13.executor": "Run",
+    "アプリケーション.pro8_13_Chat.executor": "Run",
+    "アプリケーション.pro8_14.executor": "Run",
+    "アプリケーション.pro8_6.executor": "Run",
+    "アプリケーション.pro8_7.executor": "Run",
+    "アプリケーション.pro8_8.executor": "Run",
+    "アプリケーション.pro8_9.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -165,5 +181,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
